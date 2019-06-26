@@ -5,7 +5,7 @@ import PyPDF2
 from pathlib import Path
 
 # Enter your directories here. Use absolute paths.
-source_directory = Path("C:/Users/wesleykruger/Documents/PenFed/")  # Where zip file is located
+source_directory = Path("path/to/zip")  # Where zip file is located
 
 
 def check_directory():
